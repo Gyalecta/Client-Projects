@@ -1,0 +1,71 @@
+{
+    "sushi": [
+      {
+        "name": "California Roll",
+        "description": "A classic roll filled with avocado, crab meat, and cucumber",
+        "price": 8.99
+      },
+      {
+        "name": "Spicy Tuna Roll",
+        "description": "A spicy roll filled with tuna and scallions, topped with sriracha mayo",
+        "price": 9.99
+      },
+      {
+        "name": "Dragon Roll",
+        "description": "A popular roll filled with shrimp tempura and topped with avocado and eel sauce",
+        "price": 12.99
+      }
+    ],
+    "sashimi": [
+      {
+        "name": "Tuna Sashimi",
+        "description": "Thin slices of raw tuna, served with soy sauce and wasabi",
+        "price": 14.99
+      },
+      {
+        "name": "Salmon Sashimi",
+        "description": "Thin slices of raw salmon, served with soy sauce and wasabi",
+        "price": 13.99
+      },
+      {
+        "name": "Yellowtail Sashimi",
+        "description": "Thin slices of raw yellowtail, served with soy sauce and wasabi",
+        "price": 15.99
+      }
+    ],
+    "nigiri": [
+      {
+        "name": "Tuna Nigiri",
+        "description": "A ball of rice topped with raw tuna, served with soy sauce and wasabi",
+        "price": 5.99
+      },
+      {
+        "name": "Salmon Nigiri",
+        "description": "A ball of rice topped with raw salmon, served with soy sauce and wasabi",
+        "price": 5.99
+      },
+      {
+        "name": "Eel Nigiri",
+        "description": "A ball of rice topped with grilled eel, served with soy sauce and wasabi",
+        "price": 6.99
+      }
+    ],
+    "appetizers": [
+      {
+        "name": "Edamame",
+        "description": "Steamed soybeans, served with sea salt",
+        "price": 4.99
+      },
+      {
+        "name": "Gyoza",
+        "description": "Pan-fried dumplings filled with pork and vegetables",
+        "price": 6.99
+      },
+      {
+        "name": "Age Tofu",
+        "description": "Deep-fried tofu served with tempura sauce",
+        "price": 5.99
+      }
+    ]
+  }
+  
